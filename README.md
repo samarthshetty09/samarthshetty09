@@ -6,6 +6,8 @@
 
 I am a passionate and dedicated Software Engineer pursuing a Master's degree in Computer Science at North Carolina State University. With a strong foundation in software development, I have hands-on experience in developing scalable and efficient applications using various technologies. I am constantly learning and exploring new tools and methodologies to enhance my skills and contribute effectively to the tech community.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samarthshetty09)](https://git.io/streak-stats)
+
 ## 💻 Skills & Tools
 
 ### Languages
