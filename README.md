@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samarth Shetty!
+# 👋 Hi, I'm Samarth!
 
 📍 Raleigh, NC | 📧 [Email](mailto:sshett22@ncsu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/samarthshetty09/) | [GitHub](https://github.com/samarthshetty09) | [LeetCode](https://leetcode.com/samarthshetty/)
 
