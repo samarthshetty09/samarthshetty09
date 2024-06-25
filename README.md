@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Samarth!
 
-📍 Raleigh, NC | 📧 [Email](mailto:sshett22@ncsu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/samarthshetty09/) | [GitHub](https://github.com/samarthshetty09) | [LeetCode](https://leetcode.com/samarthshetty/)
-
----
+📍 Raleigh, NC | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshett22@ncsu.edu) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthshetty09/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samarthshetty09) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/samarthshetty/)
 
 ## 🚀 About Me
 
