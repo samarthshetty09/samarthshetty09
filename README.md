@@ -8,18 +8,6 @@
 
 I am a passionate and dedicated Software Engineer pursuing a Master's degree in Computer Science at North Carolina State University. With a strong foundation in software development, I have hands-on experience in developing scalable and efficient applications using various technologies. I am constantly learning and exploring new tools and methodologies to enhance my skills and contribute effectively to the tech community.
 
-## 🏫 Education
-
-**North Carolina State University, Raleigh, NC**  
-*Master of Computer Science* (August 2023 – May 2025)  
-GPA: 3.83/4  
-- Coursework: Design & Analysis of Algorithms, Software Engineering, Computer Networks, Object-Oriented Design, Operating Systems, Robotic Software Engineering, Automated Learning & Data Analysis, Neural Networks
-
-**Visvesvaraya Technological University, India**  
-*Bachelor of Engineering, Information Science* (August 2017 – August 2021)  
-GPA: 3.98/4  
-- Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, Distributed Systems, Cloud Computing
-
 ## 💻 Skills & Tools
 
 ### Languages
@@ -51,29 +39,6 @@ GPA: 3.98/4
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-## 🏢 Work Experience
-
-**Research Assistant**  
-*Miranda Labs, North Carolina State University* (April 2024 – Present)  
-- Led the migration of deep-learning models and image segmentation features from a Python library to a React web app, improving accessibility for lifecycle analysis of yeast cells.
-- Leveraged the NC State High-Performance Computing cluster to boost model inference and processing speeds.
-
-**Software Engineer 1**  
-*Impelsys, Bangalore, India* (August 2021 – July 2023)  
-- Developed a Rule Engine for validating API requests, resulting in a 37% decrease in response time and improved performance.
-- Created a Standalone Batch Processing Service capable of processing ~200K XML files, enhancing data sharing and custom report generation.
-- Increased React and Go unit test coverage by 64%, improving codebase robustness and quality.
-- Integrated CDN-based image optimization and lazy loading, reducing image loading times by 58%.
-
-## 🌟 Projects
-
-- **[Redis Clone – Key Value Database](https://github.com/samarthshetty09/redis-clone-cpp):** Developed a Redis-like in-memory key-value store using C++, gRPC, and Socket Programming.
-- **[SimBot – Simulation Assistant for Robotics](https://github.com/samarthshetty09/simbot):** Created an LLM-powered chatbot to assist developers in choosing the right robotic simulator.
-- **[Popcorn Picks – Web-Based Movie Recommender System](https://github.com/adipai/PopcornPicks):** Developed a movie recommendation system using collaborative filtering algorithms.
-- **[Planning Poker – Agile Sprint Planning with Chat Room](https://github.com/Vineeth-Bekal-Work/Pointing-Poker-HB):** Built a serverless agile tool for effective story-pointing and effort estimation in sprints.
-- **[Burnout – A Fitness WebApp](https://github.com/rishi2019194/calorieApp):** Contributed to an open-source fitness app integrating tracking, guidance, social interaction, and AI assistance.
-- **Music Genre Detection Using Machine Learning:** Developed a CNN model to classify music genres based on spectrogram visualization.
 
 ## 🏅 Awards & Involvement
 
