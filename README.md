@@ -38,11 +38,4 @@ I am a passionate and dedicated Software Engineer pursuing a Master's degree in 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-## 🏅 Awards & Involvement
-
-- Top 1% on LeetCode in 2023 with 315+ problems solved.
-- Member of ISTE (Indian Society for Technical Education) and CSI (Computer Society of India).
-
----
-
 Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/samarthshetty09/).
